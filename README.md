@@ -75,10 +75,7 @@ Functions used:
 
 #  OUTPUT
 
-
-
-
-
+![Outputs](https://github.com/user-attachments/assets/67b60310-8d12-47ec-aea6-c98d45b23af3)
 
 
 
